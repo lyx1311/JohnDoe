@@ -454,7 +454,7 @@ table {
 /* ==========================================================================Hero========================================================================== */
 .hero {
 	background: url('../img/header-bg.jpg') right bottom no-repeat;
-	background-size: contain;
+	background-size: cover;
 	padding:110px 0 100px 0;
 	height:auto;
 	background-color: #FBFBFB;
@@ -1102,6 +1102,10 @@ ul.slides li {
 .delay-1s {
 	animation-delay:1s;
 	-webkit-animation-delay:1s;
+}
+.delay-15s {
+	animation-delay:1.5s;
+	-webkit-animation-delay:1.5s;
 }
 .wp3 {
 	background:url('../img/iphone-bg.png') no-repeat center center;
