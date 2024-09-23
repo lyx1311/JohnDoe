@@ -587,7 +587,7 @@ h1.arrow span {
 }
 
 .color-bg a {
-    color: #E04343;
+    color: #ffea1a;
 }
 .color-bg h6, .color-bg p {
     color: white;
@@ -613,7 +613,7 @@ h1.arrow span {
 	color: #8C8C8C;
 }
 .color-bg h1.arrow span {
-    color: #E04343;
+    color: #ffea1a;
 }
 .color-bg h1.arrow {
     color: #FFF;
@@ -846,7 +846,7 @@ img.grayscale:hover {
 }
 .subscribe input[type=text] {
 	background-color:rgba(255,255,255,0.1);
-	border: solid 1px #E04343;
+	border: solid 1px #ffea1a;
 	padding:20px;
 	width:30%;
 	color:#808080;
@@ -856,8 +856,8 @@ img.grayscale:hover {
     outline: none;
 }
 .subscribe input[type=submit] {
-	background: #E04343;
-	border: solid 1px #E04343;
+	background: #ffea1a;
+	border: solid 1px #ffea1a;
 	padding:20px;
 	color: #fda23b;
 	text-transform:uppercase;
@@ -869,7 +869,7 @@ img.grayscale:hover {
 }
 .subscribe input[type=submit]:hover {
 	background: rgba(255, 232, 0, 0.9);
-	border: solid 1px #E04343;
+	border: solid 1px #ffea1a;
 	color: #fda23b;
 }
 /* ==========================================================================CTA========================================================================== */
@@ -957,7 +957,7 @@ ul.social-buttons li:last-child {
 }
 .up-btn:hover,up-btn:focus {
 	color: black;
-	background: #E04343;
+	background: #ffea1a;
 }
 .contact-details {
 	margin:70px 0;
@@ -1019,7 +1019,7 @@ ul.social-buttons li:last-child {
 }
 
 .btn-send:hover{
-	background: #E04343;
+	background: #ffea1a;
 	color: #fda23b
 }
 
@@ -1089,8 +1089,8 @@ ul.slides li {
 }
 
 .color-bg .flex-control-paging li a.flex-active {
-    background: #E04343;
-    border-color: #E04343;
+    background: #ffea1a;
+    border-color: #ffea1a;
 }
 /* ==========================================================================Waypoints========================================================================== */
 .wp1,.wp2,.wp3,.wp4,.wp5,.wp6 {
