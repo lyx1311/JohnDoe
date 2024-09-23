@@ -452,13 +452,17 @@ table {
 	transition-delay: 0.5s;
 }
 /* ==========================================================================Hero========================================================================== */
+
 .hero {
-	background: url('../img/header-cloud.jpg') right bottom no-repeat;
+	background: url('../img/header-cloud.jpg') no-repeat;
+	background-position: center;
 	background-size: cover;
 	padding:110px 0 100px 0;
+	width:100%;
 	height:auto;
 	background-color: #FBFBFB;
-}
+} 
+
 .hero h1 {
 	font-size: 120px;
 	letter-spacing: -8px;
